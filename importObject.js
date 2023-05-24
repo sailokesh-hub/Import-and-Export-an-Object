@@ -1,0 +1,1 @@
+let myObj = require("./exportObject");
